@@ -18,7 +18,9 @@ MVP CRITERIA:   1.Game will display two grids.
 
 EXTENTIONS:     1.add sound effects  
                 2.add start menu
+                4.add icons showing what ships have been destroyed.
                 3.add simple A.I player.
+
 
 RISKS:          1.require research into javafx/sceneBuilder and webSockets
 
